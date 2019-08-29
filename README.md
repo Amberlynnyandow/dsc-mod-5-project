@@ -23,7 +23,7 @@ All that remains for Module 5 is to complete the final project!
 
 ## The Project
 
-For this project, you're going to select a dataset of your choosing and create a classification model. You'll start by identifying a problem you can solve with classification, and then identify a dataset. You'll then use everything you've learned about Data Science and Machine Learning thus far to source a dataset, preprocess and explore it, and then build and interpret a classification model that answers your chosen question.
+For this project, you're going to select a dataset of your choosing and create a CLASSIFICATION model. You'll start by identifying a problem you can solve with classification, and then identify a dataset. You'll then use everything you've learned about Data Science and Machine Learning thus far to source a dataset, preprocess and explore it, and then build and interpret a classification model that answers your chosen question.
 
 
 ### Selecting a Data Set
@@ -65,20 +65,20 @@ There are plenty of amazing places that you can get your data from. We recommend
 * [New York City Open Data Portal](https://opendata.cityofnewyork.us/)
 * [Inside AirBNB ](http://insideairbnb.com/)
 
+**_If you chooose_** You may use one of the following datasets instead of choosing your own: 
+**https://www.kaggle.com/shrutimechlearn/churn-modelling**
+**https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients**
+**https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#**
+
 
 ## The Deliverables
 
-For online students, your completed project should contain the following four deliverables:
+Your completed project should contain the following four deliverables:
 
 1. A **_Jupyter Notebook_** containing any code you've written for this project. This work will need to be pushed to your GitHub repository in order to submit your project.
 
-2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository. 
+2. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN or CRISP-DM process.
 
-3. A **_[Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging)_**.
-
-4. An **_"Executive Summary" PowerPoint Presentation_** that gives a brief overview of your problem/dataset, and each step of the OSEMN process.
-
-Note: On-campus students may have different deliverables, please speak with your instructor.
 
 ### Jupyter Notebook Must-Haves
 
@@ -93,11 +93,8 @@ For this project, your Jupyter Notebook should meet the following specifications
 **_Process, Methodology, and Findings_**
 
 * Your notebook should contain a clear record of your process and methodology for exploring and preprocessing your data, building and tuning a model, and interpreting your results.
-* We recommend you use the OSEMN process to help organize your thoughts and stay on track.
+* We recommend you use the OSEMN or CRISP-DM process to help organize your thoughts and stay on track.
 
-### Blog Post Must-Haves
-
-Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging) for the technical requirements and blog ideas.
 
 ## Grading Rubric 
 
